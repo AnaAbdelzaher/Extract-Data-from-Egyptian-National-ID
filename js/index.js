@@ -1,4 +1,4 @@
-/****** 29210011406011 */
+/******  */
 
 // Get  IDNumber is String
 let IDNumber = document.getElementById("numID").value;
